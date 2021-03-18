@@ -3,3 +3,4 @@ numpy==1.19.0
 Flask==1.1.2
 audio2numpy==0.1.2
 flask_restful==0.3.8
+gunicorn==19.9.0
